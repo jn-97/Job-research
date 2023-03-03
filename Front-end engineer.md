@@ -1,4 +1,4 @@
-# 👩‍🚒 Front-end enginner job-research
+# 👩‍🚒 Front-end engineer job-research
 
 ## 1. 히츠
 > 인공지능 신약개발 플랫폼 서비스를 제공하는 회사
